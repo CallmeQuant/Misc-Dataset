@@ -1,2 +1,2 @@
 # Misc-Dataset
-Dataset for several projects
+This repository contains many datasets for studying and working on projects.
